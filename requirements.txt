@@ -1,0 +1,6 @@
+matplotlib
+numpy
+pandas
+PyQt5
+PyQt5_sip
+tqdm
